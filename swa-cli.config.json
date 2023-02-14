@@ -7,7 +7,16 @@
       "apiLocation": "",
       "outputLocation": "dist/angular-basic",
       "devserverTimeout": 10000,
-      "open": "true"
+      "open": "true",
+      "appName": "static-angular",
+      "resourceGroup": "static-angular-rg"
+    },
+    "static-angular": {
+      "appLocation": ".",
+      "outputLocation": "dist\\angular-basic",
+      "appBuildCommand": "npm run build",
+      "run": "npm start",
+      "appDevserverUrl": "http://localhost:4200"
     }
   }
 }

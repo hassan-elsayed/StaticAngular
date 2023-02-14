@@ -1,0 +1,4 @@
+[submodule "StaticAngular"]
+    path = StaticAngular
+    url = https://purple-ocean-03ba2d90f.2.azurestaticapps.net/
+
